@@ -1,6 +1,6 @@
 FROM java:openjdk-8u111
 
-ENV calculator_monitor_version 2.3.3
+ENV calculator_monitor_version 3.0.1
 
 RUN mkdir -p /usr/src/myapp
 
